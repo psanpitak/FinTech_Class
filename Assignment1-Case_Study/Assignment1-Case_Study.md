@@ -10,16 +10,16 @@ The four founders are Mike Cagney, Dan Macklin, James Finnigan, and Ian Brady. T
 Today, SoFi has expanded its services into personal loans, mortgages, payments, investments, and insurances.
 
 ### Dan Macklin
-![alt text] (Assignment1-Case_Study/danmacklin.jpg)
+![alt text] (https://github.com/psanpitak/FinTech_Class/blob/main/Assignment1-Case_Study/danmacklin.jpg)
 
 ### Mike Cagney
-![alt text] (Assignment1-Case_Study/mikecagney.jpg)
+![alt text] (https://github.com/psanpitak/FinTech_Class/blob/main/Assignment1-Case_Study/mikecagney.jpg)
 
 ### Ian Brady
-![alt text] (Assignment1-Case_Study/ianbrady.png)
+![alt text] (https://github.com/psanpitak/FinTech_Class/blob/main/Assignment1-Case_Study/ianbrady.png)
 
 ### James Finnigan
-![alt text] (Assignment1-Case_Study/jimfinnigan.jpg)
+![alt text] (https://github.com/psanpitak/FinTech_Class/blob/main/Assignment1-Case_Study/jimfinnigan.jpg)
 
 
 ## Business Activities
