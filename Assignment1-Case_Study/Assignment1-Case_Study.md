@@ -1,5 +1,7 @@
 # Assignment 1 - Case Study
 # Social Finance (SoFi)
+![alt text](https://github.com/psanpitak/FinTech_Class/blob/main/Assignment1-Case_Study/sofilogo.png)
+
 
 ## Overview and Origin
 
