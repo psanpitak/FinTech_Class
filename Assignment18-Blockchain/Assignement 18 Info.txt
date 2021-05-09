@@ -1,0 +1,15 @@
+decline glue steel kingdom monster defy ice sound lend parrot school lesson
+
+Wallet Address: 0xf61b116d43Bfc69bbcf1561F49AbE16973BEC93F
+Private Key: 0xe2563837f3ca129f92b1b914d3c2fe8e373bbc815fdea5c32721dad9bdb06640
+
+node1 password: fintech
+node1 public address: 0xB6d9FE1aC04d81D633765B3082a7455BF528E910
+
+node2 password: fintech
+node2 public address: 0x12Ac45178890f1DcfE0827d28217D600079caae8
+
+network ID: 333
+
+
+
