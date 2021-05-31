@@ -1,0 +1,10 @@
+PROJECT ID
+56f5f69de15946e8b68f8f9fa878a8f8
+
+PROJECT SECRET
+e92103a7d97a48a094be3d47ae696c88
+
+ENDPOINTS
+Ropsten
+https://ropsten.infura.io/v3/56f5f69de15946e8b68f8f9fa878a8f8
+wss://ropsten.infura.io/ws/v3/56f5f69de15946e8b68f8f9fa878a8f8
